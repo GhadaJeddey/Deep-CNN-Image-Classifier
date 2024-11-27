@@ -1,4 +1,4 @@
-1. Understanding LiDAR and Point Cloud Data
+1. Understanding LiDAR and Point Cloud Data \\
 What is LiDAR?
 LiDAR (Light Detection and Ranging) employs laser light to measure distances, generating 3D
 representations of environments. The project processes point cloud data from LiDAR sensors
